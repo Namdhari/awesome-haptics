@@ -3,6 +3,7 @@ A curated list of awesome haptics frameworks, libraries and resources.
 
 - [Frameworks](#frameworks)
 - [Courses](#courses)
+- [Research Groups] (#research_groups)
 
 
 ## Frameworks
@@ -15,3 +16,9 @@ A curated list of awesome haptics frameworks, libraries and resources.
 *Courses in this area*
 
 * [Experimental Haptics](http://web.stanford.edu/class/cs277/) - Haptics course by Prof. Salisbury @ Stanford. [Experimental Haptics]
+
+
+## Research Groups
+*Some research groups doing interesting work in this area*
+
+* [CharmLab](http://charm.stanford.edu/) - Prof. Allison Okamura's group Charm Lab @ Stanford. [CharmLab]
