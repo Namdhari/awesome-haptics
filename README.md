@@ -3,7 +3,7 @@ A curated list of awesome haptics frameworks, libraries and resources.
 
 - [Frameworks](#frameworks)
 - [Courses](#courses)
-- [Research Groups] (#research_groups)
+- [Research Groups](#groups)
 
 
 ## Frameworks
