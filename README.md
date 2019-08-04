@@ -16,6 +16,7 @@ A curated list of awesome haptics frameworks, libraries and resources.
 *Courses in this area*
 
 * [Experimental Haptics](http://web.stanford.edu/class/cs277/) - Haptics course by Prof. Salisbury @ Stanford. [Experimental Haptics]
+* [Medical_Robotics](http://web.stanford.edu/class/me328/) - Medical Robotics course by Prof. Allison @ Stanford. [Medical_Robotics]
 
 
 ## Research Groups
